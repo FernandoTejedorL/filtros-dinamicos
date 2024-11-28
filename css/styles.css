@@ -105,3 +105,15 @@ body {
   font-size: var(--txt-size-m);
   color: var(--red);
 }
+
+.hidden {
+  font-size: var(--txt-size-xl);
+  font-weight: var(--fw-bold);
+  color: var(--red);
+  letter-spacing: 4px;
+  margin-left: 10vw;
+}
+
+.no-show {
+  display: none;
+}
